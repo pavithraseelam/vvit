@@ -1,0 +1,20 @@
+.main{
+    background-color: darkkhaki;
+    width: 100%;
+    justify-content: space-around;
+    display:flex;
+    flex-wrap: wrap;
+}
+#side1,#side2{
+    width:50%;
+    text-align: center;
+    background:orange;
+    color: white;
+    margin-bottom:5%;
+    img{
+        border-radius: 50%;
+    }
+}
+    img{
+        border-radius: 50%;
+    }
